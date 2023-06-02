@@ -1,0 +1,10 @@
+C:\Users\meszaros.dominik.121\source\repos\FilmekGUI\FilmekGUI\bin\Debug\FilmekGUI.exe.config
+C:\Users\meszaros.dominik.121\source\repos\FilmekGUI\FilmekGUI\bin\Debug\FilmekGUI.exe
+C:\Users\meszaros.dominik.121\source\repos\FilmekGUI\FilmekGUI\bin\Debug\FilmekGUI.pdb
+C:\Users\meszaros.dominik.121\source\repos\FilmekGUI\FilmekGUI\obj\Debug\FilmekGUI.csproj.AssemblyReference.cache
+C:\Users\meszaros.dominik.121\source\repos\FilmekGUI\FilmekGUI\obj\Debug\FilmekGUI.FilmekGUI.resources
+C:\Users\meszaros.dominik.121\source\repos\FilmekGUI\FilmekGUI\obj\Debug\FilmekGUI.Properties.Resources.resources
+C:\Users\meszaros.dominik.121\source\repos\FilmekGUI\FilmekGUI\obj\Debug\FilmekGUI.csproj.GenerateResource.cache
+C:\Users\meszaros.dominik.121\source\repos\FilmekGUI\FilmekGUI\obj\Debug\FilmekGUI.csproj.CoreCompileInputs.cache
+C:\Users\meszaros.dominik.121\source\repos\FilmekGUI\FilmekGUI\obj\Debug\FilmekGUI.exe
+C:\Users\meszaros.dominik.121\source\repos\FilmekGUI\FilmekGUI\obj\Debug\FilmekGUI.pdb

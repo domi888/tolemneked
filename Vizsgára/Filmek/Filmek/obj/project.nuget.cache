@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "LdWddrRmUh2qqDhW+WT/DB3AhZNxGC7vYi2ewMkd3erlYncfZ5ETBFlji1syeS55RC2QEIVTNxgYSpfybEHP7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\Filmek\\Filmek\\Filmek.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
